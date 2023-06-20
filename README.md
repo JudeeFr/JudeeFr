@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 👩‍🎓 I'm training as a front end developer at openclassrooms
+- 🌱 I’m currently learning Front End Developement with React Js ![image](https://github.com/JudeeFr/JudeeFr/assets/115565273/642d495c-9bdf-4215-9c33-863a26460cea)
+- ❤️ I want to become a freelance full stack web application developer 
+- ☕ My next step will be to learn java 
 
 <!--
 **JudeeFr/JudeeFr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
