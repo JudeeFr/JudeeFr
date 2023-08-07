@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👩‍🎓 I'm training as a front end developer at Openclassrooms.com
 - 🌱 I’m currently learning React Js 
-- 🏆 I want to become a full stack web app developer 
+- 🏆 I want to become a software technical consultant and developer 
 - ❤️ My next step will be to learn Java 
 
 
