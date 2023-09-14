@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 👩‍🎓 I'm training as a front end developer at Openclassrooms.com
+- 👩‍🎓 I'm training as a web developer at Openclassrooms.com
 - 🌱 I’m currently learning React Js 
-- 🏆 I want to become a software technical consultant and developer 
-- ❤️ My next step will be to learn Java 
+- 🏆 I want to became an illustrator and front-end developer
+- ❤️ My next step will be to learn web desing and illustrations
 
 
 
