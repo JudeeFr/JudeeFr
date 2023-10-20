@@ -5,7 +5,7 @@
 
 ### ✍️The artist’s diary 
  Join my daily newsletter on Substack 
- ➡️ judeefr.substack.com
+ ➡️ [judeefr.substack.com](https://judeefr.substack.com)
 
 
 
