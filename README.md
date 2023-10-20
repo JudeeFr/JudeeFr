@@ -3,9 +3,9 @@
 - 👩‍🎓I’m currently learning illustration @Edaa and  graphic design @Digital Campus
 - 🏆 I want to became a freelance web developer & designer, illustrator, business coach for creatives
 
-- ✍️The artist’s diary 
-- Join my daily newsletter on Substack 
-- ➡️ judeefr.substack.com
+### ✍️The artist’s diary 
+ Join my daily newsletter on Substack 
+ ➡️ judeefr.substack.com
 
 
 
