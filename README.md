@@ -1,11 +1,9 @@
 ### Hi there 👋
 - 🌱 I'm a junior web developer on Javascript, React Js and Wordpress
-- 👩‍🎓I’m currently learning illustration @Edaa and  graphic design @Digital Campus
-- 🏆 I want to became a freelance web developer & designer, illustrator, business coach for creatives
+- 👩‍🎓I’m currently learning graphic design @Digital Campus
+  
 
-### ✍️The artist’s diary 
- Join my daily newsletter on Substack 
- ➡️ [judeefr.substack.com](https://judeefr.substack.com)
+
 
 
 
